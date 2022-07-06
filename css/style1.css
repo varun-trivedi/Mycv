@@ -1,0 +1,43 @@
+body{
+  background-color: #F4FCD9;
+  margin: 0;
+  font-family: verdana,sans-serif;
+}
+hr {
+    width: 10%;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: grey;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.para1{
+  margin: 0;
+}
+.heading1{
+  margin: 0;
+}
+.table1{
+  margin: 0;
+}
+
+div{
+  height: 740px;
+  }
+.education{
+  background-color: #6FDFDF;
+  text-align: left;
+}
+.intro{
+  background-color: #B4ECE3;
+}
+.anchor{
+  text-align: center;
+}
+.align-name{
+  text-align: center;
+}
+.head-font{
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+}
